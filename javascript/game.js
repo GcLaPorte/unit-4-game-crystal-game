@@ -28,9 +28,7 @@ function reset() {
    var rupeePrice5 = Math.floor(Math.random() * 11) + 1;
    };
 
-   function updateDom() {
-    $("#score").empty();
-
+ 
 
 var wins = 0;
 var losses = 0;
